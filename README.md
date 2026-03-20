@@ -105,11 +105,5 @@ This project was conducted as part of independent student research in public hea
 
 ---
 
-## Contact
-For questions regarding this project, please contact:  
-[Your Name]
-
----
-
 ## License
 This project is intended for educational and research purposes.
