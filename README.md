@@ -1,5 +1,5 @@
 # rishik_research_repository
-**Author:** Rishik Shenolikar
+**Author:** Rishik S.
 
 ## Overview
 Vaccination is a cornerstone of public health, yet disparities in adolescent vaccination uptake persist across demographic and socioeconomic groups. This project develops a machine learning framework to predict vaccination status using nationally representative survey data and to identify high-risk populations for targeted outreach.
